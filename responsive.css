@@ -45,7 +45,7 @@
   .header-icon .menu-icon {
     display:block;
   }
-  .header-icon {
+  .header-icon:hover {
     cursor: pointer;
   }
   .top-wrapper h1 {
